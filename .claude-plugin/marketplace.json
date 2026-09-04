@@ -1,0 +1,14 @@
+{
+  "name": "upgrade-agent-plugins",
+  "owner": {
+    "name": "Microsoft"
+  },
+  "plugins": [
+    {
+      "name": "upgrade-agent",
+      "source": "./clients/claude-code",
+      "description": "AI-powered upgrade assistant for upgrading and migrating applications. Helps modernize legacy code and upgrade .NET applications to current frameworks.",
+      "version": "1.1.485"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "Upgrade": {
+      "type": "stdio",
+      "command": "dnx",
+      "args": [
+        "Microsoft.GitHubCopilot.Upgrade.Mcp",
+        "--yes",
+        "--ignore-failed-sources"
+      ],
+      "env": {
+        "APPMOD_CALLER_TYPE": "copilot-cli",
+        "APPMOD_DISABLE_MCP_APPS": "true"
+      }
+    }
+  }
+}

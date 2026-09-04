@@ -55,6 +55,10 @@ Prompt the agent:
 upgrade my solution to .NET 10
 ```
 
+### Claude Code CLI and Codex CLI
+
+The agent is also available for Claude Code CLI and Codex CLI. See the [clients README](clients/README.md) for installation steps.
+
 ### GitHub Copilot Coding Agent
 
 A custom agent definition and setup steps are provided for use with [Copilot Coding Agent](https://docs.github.com/en/copilot/using-github-copilot/using-copilot-coding-agent) in GitHub. This allows Copilot to upgrade projects directly via pull requests.
