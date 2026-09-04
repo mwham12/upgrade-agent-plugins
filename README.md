@@ -8,7 +8,7 @@ GitHub Copilot upgrade is available from both the GitHub Copilot app and GitHub 
 
 ### GitHub Copilot app
 
-[**Add this marketplace in the GitHub Copilot app →**](https://github.com/copilot/app/launch?entry_point=upgrade_agent_plugins_readme&open=ghapp%3A%2F%2Fplugins%2Fmarketplace%2Fadd%3Fsource%3Dmicrosoft%2Fupgrade-agent-plugins)
+[**Add this marketplace in the GitHub Copilot app →**](https://github.com/copilot/app/launch?entry_point=upgrade_agent_plugins_readme&open=ghapp%3A%2F%2Fplugins%2Fmarketplace%2Fadd%3Fsource%3Dmwham12%2Fupgrade-agent-plugins)
 
 This opens the GitHub Copilot app to confirm your intention to add the marketplace: 
 
@@ -38,7 +38,7 @@ upgrade my project to .NET 10
 Add the marketplace:
 
 ```javascript
-/plugin marketplace add microsoft/upgrade-agent-plugins
+/plugin marketplace add mwham12/upgrade-agent-plugins
 ```
 
 Install the GitHub Copilot upgrade plugin:

@@ -22,7 +22,7 @@ becomes a Claude Code `hooks/hooks.json`.
 Install it from this repository's marketplace:
 
 ```
-/plugin marketplace add microsoft/upgrade-agent-plugins
+/plugin marketplace add mwham12/upgrade-agent-plugins
 /plugin install upgrade-agent@upgrade-agent-plugins
 ```
 
