@@ -7,7 +7,7 @@ AI-powered assistance for upgrading and modernizing applications. This plugin ad
 Add the marketplace, then install the plugin:
 
 ```
-/plugin marketplace add microsoft/upgrade-agent-plugins
+/plugin marketplace add mwham12/upgrade-agent-plugins
 /plugin install upgrade-agent@upgrade-agent-plugins
 ```
 

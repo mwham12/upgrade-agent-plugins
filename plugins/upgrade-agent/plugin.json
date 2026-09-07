@@ -12,8 +12,8 @@
     "dotnet",
     "canvas"
   ],
-  "repository": "https://github.com/microsoft/upgrade-agent-plugins",
-  "homepage": "https://github.com/microsoft/upgrade-agent-plugins",
+  "repository": "https://github.com/mwham12/upgrade-agent-plugins",
+  "homepage": "https://github.com/mwham12/upgrade-agent-plugins",
   "license": "MIT",
   "logo": "assets/preview.png",
   "hooks": "hooks.json"
